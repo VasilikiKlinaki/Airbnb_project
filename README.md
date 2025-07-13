@@ -3,6 +3,8 @@
 
 This project performs exploratory data analysis on Airbnb listings in Athens using data from Inside Airbnb. The goal is to uncover patterns in pricing, availability, and host characteristics by examining the structure and quality of the dataset.
 
+You can find the dataset on Kaggle with a detailed description.
+
 ### **Python libraries used:** 
 
 - pandas: data cleaning and transformation
