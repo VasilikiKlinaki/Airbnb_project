@@ -3,7 +3,7 @@
 
 This project performs exploratory data analysis on Airbnb listings in Athens using data from Inside Airbnb. The goal is to uncover patterns in pricing, availability, and host characteristics by examining the structure and quality of the dataset.
 
-You can find the dataset on Kaggle with a detailed description.
+You can find the dataset on https://insideairbnb.com/get-the-data/ with a detailed description.
 
 ### **Python libraries used:** 
 
@@ -42,7 +42,7 @@ Answering questions regaring the dataset by using data transformation and filter
 How to run the code:
 
 - Ensure to download the necessary packages as in `requirements.txt`
-- Download the dataset `` from Kaggle
+- Download the dataset `detailed_listings.csv` from https://insideairbnb.com/get-the-data/
 - In case you change the file name, also change the data path in the code `pd.read_csv('<YOUR DATA PATH>')`
 - Download the processed dataset for the dashboard
 - Run the Streamlit dashboard by typing `streamlit run energy_dashboard.py` on the terminal
