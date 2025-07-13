@@ -1,7 +1,7 @@
 # Airbnb Data Analytics
 ### **Description:**
 
-
+This project performs exploratory data analysis on Airbnb listings in Athens using data from Inside Airbnb. The goal is to uncover patterns in pricing, availability, and host characteristics by examining the structure and quality of the dataset.
 
 ### **Python libraries used:** 
 
