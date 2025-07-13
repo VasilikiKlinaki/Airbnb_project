@@ -13,6 +13,13 @@
 
 ## **Project overview**
 
+**1. Data cleaning and transformation**
+
+Checking the dataset for missing values and duplicates, shortening column names and adding new derived columns.
+
+**2. Exploratory Data Analysis**
+
+Answering questions regaring the dataset by using data transformation and filtering, and creating various types of charts: 
 
 
 
@@ -21,6 +28,7 @@
 
 
 
+3. Machine Learning - Predicting 
 
 
 ## **Notes**
