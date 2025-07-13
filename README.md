@@ -30,6 +30,10 @@ Answering questions regaring the dataset by using data transformation and filter
 
 **3. Machine Learning - Predicting** 
 
+- **Pre-processing data**: dropping irrelevant columns, removing rows with missing values and duplicates, encoding categorical data into numeric.
+- **Feature Engineering**: calculating features' correlations with the target variable and removing irrelevant ones, dropping some features that highly correlate with each other to avoid multicollinearity.
+- **Modeling**: splitting the data into training and testing sets, scaling the features, creating and evaluating machine learning models.
+
 
 ## **Notes**
 
