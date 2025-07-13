@@ -28,7 +28,7 @@ Answering questions regaring the dataset by using data transformation and filter
 
 
 
-3. Machine Learning - Predicting 
+**3. Machine Learning - Predicting 
 
 
 ## **Notes**
