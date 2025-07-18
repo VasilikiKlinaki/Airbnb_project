@@ -10,7 +10,6 @@ You can find the dataset on https://insideairbnb.com/get-the-data/ with a detail
 - pandas: data cleaning and transformation
 - matplotlib: visualizing data, creating various charts
 - scikit-learn: ML models and evaluation metrics
-- streamlit: creating an online dashboard
 
 
 ## **Project overview**
@@ -45,4 +44,3 @@ How to run the code:
 - Download the dataset `detailed_listings.csv` from https://insideairbnb.com/get-the-data/
 - In case you change the file name, also change the data path in the code `pd.read_csv('<YOUR DATA PATH>')`
 - Download the processed dataset for the dashboard
-- Run the Streamlit dashboard by typing `streamlit run energy_dashboard.py` on the terminal
