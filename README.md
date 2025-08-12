@@ -40,7 +40,6 @@ Answering questions regaring the dataset by using data transformation and filter
 
 How to run the code:
 
-- Ensure to download the necessary packages as in `requirements.txt`
 - Download the dataset `detailed_listings.csv` from https://insideairbnb.com/get-the-data/
 - In case you change the file name, also change the data path in the code `pd.read_csv('<YOUR DATA PATH>')`
 - Download the processed dataset for the dashboard
